@@ -1,0 +1,22 @@
+{
+  "name": "vietdien2005/minion-phalcon",
+  "version": "0.1",
+  "title": "Minion CMS",
+  "description": "Minion CMS - Open source CMS. Written in Phalcon PHP Framework (v3.x). Structure folder like Laravel.",
+  "type": "project",
+  "author": {
+    "name": "Dam Viet",
+    "url": "https://www.facebook.com/damviet92"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vietdien2005/minion-phalcon"
+  },
+  "require": {
+    "php": ">=5.6",
+    "ext-intl": "*",
+    "ext-phalcon": ">=3.0",
+    "robmorgan/phinx": "dev-master",
+    "sneakybobito/phalcon-stubs": "*"
+  }
+}
