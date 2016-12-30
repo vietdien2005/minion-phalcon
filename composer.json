@@ -3,6 +3,8 @@
   "version": "0.1",
   "title": "Minion CMS",
   "description": "Minion CMS - Open source CMS. Written in Phalcon PHP Framework (v3.x). Structure folder like Laravel.",
+  "keywords": ["minion","cms","phalcon"],
+  "license": "MIT",
   "type": "project",
   "author": {
     "name": "Dam Viet",
