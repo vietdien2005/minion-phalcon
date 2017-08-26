@@ -1,5 +1,7 @@
 # minion-phalcon
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/vietdien2005/minion-phalcon.svg)](https://greenkeeper.io/)
+
 Minion CMS - Written in Phalcon PHP Framework (version 3.x supported). Inherit from [YonaCMS](https://github.com/oleksandr-torosh/yona-cms), but structure folder look like [Laravel](https://github.com/laravel/laravel)
 
 ## Installation
